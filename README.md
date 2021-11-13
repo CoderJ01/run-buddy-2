@@ -8,7 +8,7 @@ A website that offers fitness training purposes.
 * CSS
 
 ## Website
-https://coderj01.github.io/run-buddy/
+https://coderj01.github.io/run-buddy-2/
 
 ## Contribution
 Made with ❤️ by Joshua
