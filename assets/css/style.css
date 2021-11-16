@@ -528,4 +528,10 @@ footer a {
     .contact-info iframe {
         flex: 1 100%
     }
+
+    .habits {
+        width: auto;
+        margin: auto;
+        float: top;
+    }
 }
