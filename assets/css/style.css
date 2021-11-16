@@ -529,9 +529,10 @@ footer a {
         flex: 1 100%
     }
 
-    .habits {
-        width: auto;
-        margin: auto;
-        float: top;
+    /* fix media issue in hero section*/
+
+    .hero {
+        align-items: center;
+        flex-direction: column;
     }
 }
